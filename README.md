@@ -1,2 +1,1 @@
-# hammurabi.github.io
-code[x]
+hammurabi code[x]
