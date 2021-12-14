@@ -1,1 +1,1 @@
-website for code resources
+code resources
